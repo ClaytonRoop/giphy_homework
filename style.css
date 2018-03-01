@@ -1,3 +1,13 @@
-.item {
-    display: inline-block;
+
+.clickButton {
+margin: 10px 15px 5px 0px;
+}
+
+.gifBox {
+    margin-top: 20px;
+}
+
+
+.formBox {
+    margin-top: 20px;
 }
